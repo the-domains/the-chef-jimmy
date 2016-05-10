@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Flambéed Pan Seared Steak With Thyme and Peppercorns
-datePublished: '2016-05-10T04:17:36.737Z'
-dateModified: '2016-05-10T04:16:37.715Z'
+datePublished: '2016-05-10T04:17:49.198Z'
+dateModified: '2016-05-10T04:17:39.457Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-10-flambeed-pan-seared-steak-with-thyme-and-peppercorns.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-10-flambeed-pan-seared-steak-with-thyme-and-peppercorns.md
 url: flambeed-pan-seared-steak-with-thyme-and-peppercorns/index.html
 _type: Article
 

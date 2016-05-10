@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Chef Jimmy]]></title>
         <description><![CDATA[The Chef Jimmy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thechefjimmy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 03:37:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 03:47:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thechefjimmy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"The Chef Jimmy" New Website!</p>]]></description>
+            <link>https://thegrid.ai/thechefjimmy/the-chef-jimmy-new-website/index.html</link>
+            <guid isPermaLink="false">50934fc9-88e9-4797-a14a-f262ab50c44a</guid>
+            <pubDate>Tue, 10 May 2016 03:46:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="MothersDay Breakfast #RedVelvet #FrenchToast with a Cream Cheese Stuffing and Chocolate Drizzle! #thechefjimmypic.twitter.com/Ds0acjhBb9" src="https://pbs.twimg.com/media/CiDZY2fUgAAWGUa.jpg:large">]]></description>

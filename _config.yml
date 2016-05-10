@@ -1,0 +1,28 @@
+name: The Chef Jimmy
+favicon: null
+layout_spectrum: 0.9000319852493703
+typography_spectrum: 0.4532137403730303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4669416770339012
+  lightness: 0.9483929972629994
+  saturation: 0.4111362909898162
+  rhythmicContrast: 0.9855222294572741
+purpose: []

@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Flambéed Pan Seared Steak With Thyme and Peppercorns
-datePublished: '2016-05-10T04:17:49.198Z'
-dateModified: '2016-05-10T04:17:39.457Z'
+datePublished: '2016-05-10T04:19:23.399Z'
+dateModified: '2016-05-10T04:19:12.224Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-flambeed-pan-seared-steak-with-thyme-and-peppercorns.md
@@ -72,3 +72,4 @@ _Ingredients_:
 1 tbsp. truffle oil
 
 _Instructions_: Cut the cauliflower into florets and add about a cup at a time into a food processor and pulse until the cauliflower is like finely chopped 'rice'. Put cauliflower in a mixing bowl and set aside. Combine beans and broth in the food processor or blender and puree until smooth. Set aside the mixture. Next, add the coconut oil to a large skillet and cook on medium heat, add onions and mushrooms, stirring often until mushrooms are brown and onions are soft. Add the minced garlic, salt and pepper, stir and continue to cook for another minute. Add lemon juice, stir and continue cooking until almost all the liquid is evaporated. Now add the bean puree to the skillet and bring to a simmer. Stir in the riced cauliflower, cover and cook until the cauliflower is tender, stirring occasionally, for about 7-9 minutes. Reduce heat to low and stir in almost all of the parmesan cheese or nutritional yeast, (leave out a little to sprinkle on top of your finished 'risotto') Turn off the heat and add almost all the parsley, and stir, (again, leaving out a little to sprinkle on top of the finished 'risotto') Finish off the dish with a drizzle of truffle oil, and a sprinkle of parmesan/nutritional yeast and parsley.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba6ccd3b-7882-4e87-a16c-26a33baead22.jpg)
